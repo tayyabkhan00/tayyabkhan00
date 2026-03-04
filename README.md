@@ -119,6 +119,9 @@ Tableau dashboard exploring **EV adoption trends across Indian states**, manufac
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight)
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabkhan00&theme=tokyo-night"/>
 ---
 
 ## 📫 Connect With Me
