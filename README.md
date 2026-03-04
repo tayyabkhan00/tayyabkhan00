@@ -127,6 +127,12 @@ Tableau dashboard exploring **EV adoption trends across Indian states**, manufac
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/tayyabkhan00/tayyabkhan00/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Connect With Me
 
 📧 Email: iron29700@gmail.com  
