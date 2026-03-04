@@ -3,12 +3,12 @@
 # Hi 👋 I'm Tayyab Khan
 
 🎓 BTech in AI & Data Science  
-📊 Data Analysis | Machine Learning | Deep Learning  
-🚀 Turning data into insights and intelligent systems
+📊 Data Analysis • Machine Learning • Deep Learning  
+🚀 Building intelligent systems from real-world data
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
 class TayyabKhan:
@@ -16,7 +16,8 @@ class TayyabKhan:
     def __init__(self):
         self.education = "BTech AI & Data Science"
         self.location = "India"
-        self.interests = [
+
+        self.skills = [
             "Machine Learning",
             "Data Analysis",
             "Deep Learning",
@@ -34,53 +35,67 @@ class TayyabKhan:
         ]
 
     def current_focus(self):
-        return "Building real-world AI & Data Science projects 🚀"
+        return "Building real-world AI systems 🚀"
 ```
+
 ---
+
 ## ⚡ Tech Stack
 
 ### Programming
-<img src="https://skillicons.dev/icons?i=python" />
+![Python](https://skillicons.dev/icons?i=python)
 
 ### Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker)
 
-### Data & Visualization
-Pandas • NumPy  
-Power BI • Tableau  
-Matplotlib • Seaborn
+### Data Visualization
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Power BI  
+- Tableau
+
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 Customer Support RAG Bot
-Retrieval-Augmented Generation chatbot using **LangChain + Gemini** that answers queries from uploaded PDFs with source citations.
+RAG chatbot using **LangChain + Gemini** that answers queries from uploaded PDFs with citations.
 
-Tech Stack: **Python • LangChain • Gemini • Vector Search**
+**Tech:** Python • LangChain • Gemini • Vector Search  
+🔗 **Repository:**  
+https://github.com/tayyabkhan00/Customer_Support_RAG_bot
 
 ---
 
 ### 🏠 Bengaluru House Price Prediction
-End-to-end machine learning project predicting house prices using **XGBoost** with feature engineering and deployment on **Streamlit**.
+End-to-end ML pipeline predicting house prices using **XGBoost**.
 
-**Tech:** Python • Pandas • Scikit-learn • XGBoost • Streamlit
+**Tech:** Python • Pandas • Scikit-learn • XGBoost • Streamlit  
+🔗 **Repository:**  
+https://github.com/tayyabkhan00/house_prediction
 
 ---
 
 ### 🧠 CIFAR-10 Image Classification
-Deep learning model using **ResNet-18** trained on CIFAR-10 dataset with GPU acceleration.
+Deep learning image classifier using **ResNet-18** trained on the CIFAR-10 dataset.
 
-**Tech:** Python • PyTorch • Deep Learning • Computer Vision
+**Tech:** Python • PyTorch • Computer Vision  
+🔗 **Repository:**  
+https://github.com/tayyabkhan00/Image_Classification_System-CIFAR-10-
 
 ---
 
 ### 📊 Blinkit Business Dashboard
-Interactive **Power BI dashboard** analyzing Blinkit’s sales performance, customer behavior, and key business KPIs.
+Power BI dashboard analyzing Blinkit sales KPIs and customer behavior.
 
-**Tech:** Power BI • Data Analysis • Visualization
+**Tech:** Power BI • Data Analytics  
+🔗 **Repository:**  
+https://github.com/tayyabkhan00/Blinkit_Dashboard
 
 ---
 
@@ -91,39 +106,17 @@ Tableau dashboard exploring **EV adoption trends across Indian states**, manufac
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tayyabkhan00&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🌆 3D Contribution Graph
-
-![](https://raw.githubusercontent.com/tayyabkhan00/tayyabkhan00/main/profile-3d-contrib/profile-night-view.svg)
-
----
-
 ## 📊 GitHub Stats
 
-![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight)
+![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tayyabkhan00&theme=tokyonight&hide_border=true)
 
 ---
 
