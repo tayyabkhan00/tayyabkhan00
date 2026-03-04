@@ -115,7 +115,7 @@ Tableau dashboard exploring **EV adoption trends across Indian states**, manufac
 
 ## 🌆 3D Contribution Graph
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayyabkhan00&theme=tokyonight)
+![](https://raw.githubusercontent.com/tayyabkhan00/tayyabkhan00/main/profile-3d-contrib/profile-night-view.svg)
 
 ---
 
