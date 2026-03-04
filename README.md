@@ -37,14 +37,19 @@ Streamlit
 
 ---
 
+## 📊 GitHub Stats
+
+![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Connect With Me
 
 Email: iron29700@gmail.com  
 LinkedIn: linkedin.com/in/tayyab-khan-2a498
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight)
 <!--
 **tayyabkhan00/tayyabkhan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
