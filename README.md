@@ -39,19 +39,19 @@ class TayyabKhan:
 ---
 ## ⚡ Tech Stack
 
-<p align="center">
+### Programming
+<img src="https://skillicons.dev/icons?i=python" />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+### Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-<br>
-
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
-</p>
-
-**Data Analysis:** Pandas • NumPy  
-**Visualization:** Power BI • Tableau • Matplotlib • Seaborn  
-**Deployment:** Streamlit
+### Data & Visualization
+Pandas • NumPy  
+Power BI • Tableau  
+Matplotlib • Seaborn
 ---
 
 # 🚀 Featured Projects
@@ -59,7 +59,7 @@ class TayyabKhan:
 ### 🤖 Customer Support RAG Bot
 Retrieval-Augmented Generation chatbot using **LangChain + Gemini** that answers queries from uploaded PDFs with source citations.
 
-**Tech:** Python • LangChain • Gemini • Vector Search
+Tech Stack: **Python • LangChain • Gemini • Vector Search**
 
 ---
 
@@ -91,13 +91,13 @@ Tableau dashboard exploring **EV adoption trends across Indian states**, manufac
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabkhan00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,19 +113,6 @@ Tableau dashboard exploring **EV adoption trends across Indian states**, manufac
 
 ---
 
-## 🛠 Tech Stack
-
-Python  
-Pandas  
-NumPy  
-Scikit-learn  
-TensorFlow / PyTorch  
-Power BI  
-Tableau  
-Streamlit  
-
----
-
 ## 📊 GitHub Stats
 
 ![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabkhan00&show_icons=true&theme=tokyonight)
@@ -136,8 +123,10 @@ Streamlit
 
 ## 📫 Connect With Me
 
-Email: iron29700@gmail.com  
-LinkedIn: https://linkedin.com/in/tayyab-khan-2a498
+📧 Email: iron29700@gmail.com  
+
+💼 LinkedIn:  
+https://linkedin.com/in/tayyab-khan-2a498
 
 <!--
 **tayyabkhan00/tayyabkhan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
