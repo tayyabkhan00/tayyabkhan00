@@ -48,7 +48,7 @@ Streamlit
 ## 📫 Connect With Me
 
 Email: iron29700@gmail.com  
-LinkedIn: linkedin.com/in/tayyab-khan-2a498
+LinkedIn: https://linkedin.com/in/tayyab-khan-2a498
 
 <!--
 **tayyabkhan00/tayyabkhan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
