@@ -102,7 +102,7 @@ https://github.com/tayyabkhan00/Blinkit_Dashboard
 ### ⚡ EV Adoption Analytics Dashboard
 Tableau dashboard exploring **EV adoption trends across Indian states**, manufacturers, and BEV vs PHEV insights.
 
-**Tech:** Tableau • Data Visualization • Analytics
+**Tech:** Tableau • Data Visualization • Analytics                
 🔗 **Repository:** 
 https://public.tableau.com/app/profile/tayyab.khan8849/viz/EVDataAnalysis_17620858404160/Dashboard1?publish=yes
 
