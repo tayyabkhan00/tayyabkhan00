@@ -130,7 +130,7 @@ https://public.tableau.com/app/profile/tayyab.khan8849/viz/EVDataAnalysis_176208
 
 ## 📫 Connect With Me
 
-📧 Email: iron29700@gmail.com  
+📧 Email: pathantayyabkhan786@gmail.com  
 
 💼 LinkedIn:  
 https://linkedin.com/in/tayyab-khan-2a498
